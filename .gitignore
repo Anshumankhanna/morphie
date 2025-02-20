@@ -1,0 +1,5 @@
+# Virtual environment for packages
+.venv/
+
+# Environment variables
+.env
